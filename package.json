@@ -1,0 +1,8 @@
+{
+  "name": "cedmiq",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Allajah/cedmiq.git",
+  "author": "Allajah <cat.chat.katze.gatto.gato@gmail.com>",
+  "license": "MIT"
+}
