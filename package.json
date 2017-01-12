@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:Allajah/cedmiq.git",
   "author": "Allajah <cat.chat.katze.gatto.gato@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "chrome-extension-scripts": "^0.9.5"
+  }
 }
